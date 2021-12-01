@@ -4,9 +4,12 @@
 
 ## WELCOME! 👋
 
+ <br>
+ 
 This is a challenge proposed during the course at [Origamid](https://www.origamid.com/),
 This is a Project developed to improve my skills with HTML and CSS concepts.
-It was developed with semantics and accessibility in mind, using the best practices
+It was developed with semantics and accessibility in mind, using the best practices, where I was able to learn a lot more about this concepts!
+ 
 
 <br><br>
 
